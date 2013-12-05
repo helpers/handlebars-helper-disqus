@@ -4,6 +4,10 @@
  * Licensed under the MIT License (MIT).
  */
 
+// node_modules
+var _ = require('lodash');
+
+
 // Export helpers
 module.exports.register = function (Handlebars, options, params) {
 
@@ -43,6 +47,4 @@ module.exports.register = function (Handlebars, options, params) {
 
     return new Handlebars.SafeString(Handlebars.compile(template)(options));
   });
-
-
 };

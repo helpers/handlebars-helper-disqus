@@ -1,7 +1,7 @@
 {
   "name": "handlebars-helper-disqus",
   "description": "{{disqus}} Handlebars helper. Simplifies adding [Disqus](https://disqus.com/) comments to your site.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/helpers/handlebars-helper-disqus",
   "author": {
     "name": "Jon Schlinkert",
@@ -22,7 +22,7 @@
   ],
   "main": "./index.js",
   "dependencies": {
-    "lodash": "~2.2.1"
+    "lodash": "~2.4.1"
   },
   "keywords": [
     "assemble",
