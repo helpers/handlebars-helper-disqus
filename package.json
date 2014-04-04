@@ -1,7 +1,7 @@
 {
   "name": "handlebars-helper-disqus",
   "description": "{{disqus}} Handlebars helper. Simplifies adding [Disqus](https://disqus.com/) comments to your site.",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "homepage": "https://github.com/helpers/handlebars-helper-disqus",
   "author": {
     "name": "Jon Schlinkert",
